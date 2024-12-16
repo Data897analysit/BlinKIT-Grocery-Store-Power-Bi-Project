@@ -5,16 +5,19 @@ BlinkIT is facing challenges with inconsistent sales performance across its outl
 
 Problem :- 
            How can BlinkIT optimize its product offerings, outlet strategies, and pricing to maximize revenue across all locations?
-KPTS :-
+
+
+ KPTS :-
        Total Sales : 18.58M
        Total item = 8515
        Item MRP 
               Average :141.01
               Max :266.89
               Min : 31.29
+
 KEY INSIGHTS :-
               Item Type Breakdown
-     1. Top Selling Categories are suggesting customer preferences 
+1. Top Selling Categories are suggesting customer preferences 
          Fruits and Vegetables: Highest sales at 2.8 million(15.18%)
          Snack Foods: Second highest at 2.7 million. (14.67%)
          Household items follow closely at 2.1 million. (11.07%)
