@@ -24,6 +24,7 @@ KEY INSIGHTS :-
          Low Selling Categories are needing attention to boost overall sales performance 
          Seafood: Very low sales at 0.1 million.  (0.8%)
          Breakfast items: Also low at 0.2 million. (1.25%)
+ 
  Business Recommendation : 
                        By focusing marketing efforts on top-selling categories, the business can increase visibility and sales in these areas, enhancing profitability. 
 Implement targeted promotions or bundle offers for low-selling items to boost their sales.
@@ -32,6 +33,7 @@ Implement targeted promotions or bundle offers for low-selling items to boost th
 Medium (MRP) items comprise 4.64K.
 Low items: 2.44K.
 High items: 1.44K.
+
 Business Recommendation : 
               Medium-Priced Items: Focus on ensuring competitive pricing and meeting customer expectations. 
               Low-Priced Items: Leverage budget-friendly options to attract customers and explore opportunities for bundling and cross-selling. 
@@ -40,6 +42,7 @@ Business Recommendation :
 Small outlets  - 48.22% of the total sales.
 Medium outlets  - 40.24%.
 High outlets - 11.53%
+
 Business Recommendations : 
 small stores make up the largest share of sales (48.22%) allows companies to focus their marketing and inventory strategies on these stores to maximize sales and profits 
 Refocusing efforts: Redirect marketing and sales resources towards small and medium outlets with higher sales potential. 
@@ -49,10 +52,13 @@ Supermarket Type 1 Tier 2 generates the highest sales at 6.47 million.
 Supermarket Type 1 Tier 3 follows with 4.3 million.
      Lowest Performing Outlets:
 Grocery Store Type 1 has minimal sales at 0.18 million.
+
 Business Recommendations:
           Guides outlets specific sales strategies 
            Guides decisions about store expansions 
+
 Why is it important to solve?
+
 Strategic Decision-Making: The CEO will rely on your insights for critical business moves, such as pricing adjustments, inventory changes, and marketing investments.
 Operational Efficiency: Identifying underperforming outlets and products can streamline operations and cut costs.
 Revenue Maximization: Highlighting high-performing areas ensures focus on opportunities with the greatest ROI.
